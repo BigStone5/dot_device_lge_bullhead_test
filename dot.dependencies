@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "dot_device_lge_bullhead_test",
+    "target_path": "device/lge/bullhead"
+  }
+]
